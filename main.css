@@ -1,6 +1,7 @@
 body, html,.circle-container{
     height: 100%;
     width: 100%;
+     background-color:black;
 
 }
 
@@ -16,7 +17,7 @@ body, html,.circle-container{
     align-items: center;
     justify-content: center;
     transition: all 2s;
-    background-color:black;
+   
 }
 
 
